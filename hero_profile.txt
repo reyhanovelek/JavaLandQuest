@@ -1,0 +1,6 @@
+Name: demir
+Type: mage
+Age: 25
+Strength: 80
+Experience: 65
+Inventory: [Sword, Shield, Health Potion, Gold]
